@@ -1,0 +1,26 @@
+@media (max-width:768px) {
+main{
+    grid-template-columns: 1fr;
+    padding: 2rem;
+    }
+
+}
+
+@media (max-width:480px) {
+.product-list .product-Img{
+   width: 100%;
+}
+.main-modal{
+  padding: 1rem;
+  width: 300px;
+}
+.cartBtn{
+   top: 20.2rem;
+   left: 6.2rem;
+}
+.actions{
+   top: 20.2rem;
+   left: 6.2rem;
+}
+    
+}
