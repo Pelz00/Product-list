@@ -9,14 +9,6 @@ main{
    flex-grow: 1;
 }
 
-.cartBtn{
-   top: 12.1rem;
-   left: 2.2rem;
-}
-.actions{
-   top: 12.1rem;
-   left: 2.2rem;
-}
   
 }
 
@@ -26,32 +18,6 @@ main{
 .main-modal{
   padding: 1rem;
   width: 300px;
-}
-.cartBtn{
-   top: 20.2rem;
-   left: 6.2rem;
-}
-.actions{
-   top: 20.2rem;
-   left: 6.2rem;
-}
-    
-}
-
-
-@media (max-width:380px) {
-
-.main-modal{
-  padding: 1rem;
-  width: 300px;
-}
-.cartBtn{
-   top: 17.2rem;
-   left: 5rem;
-}
-.actions{
-   top: 17.2rem;
-   left: 5rem;
 }
     
 }
