@@ -18,10 +18,11 @@ main .products{
 
 .product-list{
   position: relative;
+  width: 250px;
 }
 
 .product-list .product-Img{
-   width: 250px;
+   width: 100%;
    border-radius: 10px;
 }
 .product-Img.active {
