@@ -17,7 +17,6 @@ main .products{
 }
 
 .product-list{
-  position: relative;
   width: 250px;
 }
 
@@ -31,7 +30,6 @@ main .products{
 }
 
  .product-list .product-details{
-   margin-top: 2rem;
    line-height: .4rem;
 }
 
@@ -39,14 +37,14 @@ main .products{
    display: flex;
    align-items: center;
    gap: 5px;
-   position: absolute;
-   top: 13.9rem;
-   left: 3.2rem;
    background-color: white;
    border-radius: 50px;
-   padding: 0 25px;
+   padding: 0 22px;
    height: 35px;
-   border: 1px solid brown;
+   border: 1.6px solid brown;
+   margin: auto;
+   margin-top: 4px;
+   width: fit-content;
 }
 
 .actions{
@@ -54,13 +52,13 @@ main .products{
   display: flex;
    align-items: center;
    justify-content: space-between;
-   position: absolute;
-   top: 13.9rem;
-   left: 3.2rem;
    border-radius: 50px;
    padding: 0 10px;
    height: 35px;
    width: 120px;
+   border: 1.6px solid brown;
+   margin: auto;
+   margin-top: 4px;
 }
 
 
